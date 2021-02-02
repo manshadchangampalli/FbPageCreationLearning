@@ -1,0 +1,88 @@
+.header{
+background: #3b5998;
+width: 100%;
+height: 90px;
+}
+body{
+    margin: 0ch;
+    font-family: Helvetica neue, Helvetica, Arial, sans-serif ;
+}
+.logo{
+
+width: 50%;
+padding-top: 30px;
+float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo-text{
+color: #ffffff;
+font-size: 39px;
+font-family:  Helvetica neue, Helvetica, Arial, sans-serif;
+text-decoration:none ;margin-left: 170px;
+ }
+ .login-label{
+
+    color: #ffffff;
+ }
+ .login-forgottenpassword{
+
+    color: #9cb4d8;
+    font-size: 12px;
+ }
+ .login-controls{
+     margin-left: 150px;
+ }
+ .button{
+     color: #ffffff;
+     background:#4267b2 ;
+     height: 26px;
+     border-color: #29487d;
+     cursor: pointer;
+ }
+ .button:hover{
+     background: red;
+ }
+ .mainbody-right-section{
+width: 38%;
+float: left;
+padding-left: 150px;
+padding-top: 100px;
+ }
+ .mainbody-left-section{
+
+padding-left: 134px;
+    width: 36%;
+    float: left;
+    padding-top: 41px;
+
+ }
+ .main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%; 
+    height: 500px;
+ }                  
+ .para{
+     font-weight: bold;
+     font-size: 26px;
+ }
+ .signup{
+     margin: 10px;
+ }
+ .inputname{
+     margin: 5px;
+ }
+ #phn{
+     width: 361px;
+ }
+ #nps{
+     width: 361px;
+ }
+    
+    
+
+
+ 
